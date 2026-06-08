@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Vivado/Systolic array/Systolic array.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Vivado/Systolic array/Systolic array.srcs/sim_1/new/tb.v,1779452669,verilog,,,,tb_systolic_array,,,,,,,,
+C:/Vivado/Systolic array/Systolic array.srcs/sources_1/new/array.v,1779434159,verilog,,C:/Vivado/Systolic array/Systolic array.srcs/sources_1/new/systolic_pe.v,,systolic_array,,,,,,,,
+C:/Vivado/Systolic array/Systolic array.srcs/sources_1/new/systolic_pe.v,1779342348,verilog,,C:/Vivado/Systolic array/Systolic array.srcs/sim_1/new/tb.v,,sys_pe,,,,,,,,
