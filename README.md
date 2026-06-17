@@ -1,4 +1,4 @@
-# High-Performance Systolic Array Accelerator
+# Parameterized Systolic Array Architecture
 
 ## Overview
 
