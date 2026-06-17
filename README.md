@@ -26,11 +26,11 @@ A scalable **N × N systolic array architecture** implemented in Verilog, optimi
 
 Comparison against a standard single-issue sequential processing baseline for a **4 × 4 matrix multiplication**.
 
-| Metric | Impact |
-|----------|----------|----------|
-| Throughput | **16× peak improvement**  Parallelized MAC operations (N² processing elements) |
-| Latency  | Execution in **3N − 2** cycles versus **N³** sequential operations |
-| Efficiency | **~ lower memory bandwidth demand** Spatial data reuse through local PE interconnects |
+| Metric | Result | Impact |
+|---------|---------|---------|
+| Throughput | **16× peak improvement** | Parallelized MAC operations across N² processing elements |
+| Latency | **3N − 2 cycles** | Significantly lower than the **N³** operations required by a sequential implementation |
+| Efficiency | **Reduced memory bandwidth demand** | Spatial data reuse through local PE interconnects |
 
 ---
 
