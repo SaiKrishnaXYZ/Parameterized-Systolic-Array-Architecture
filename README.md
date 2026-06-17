@@ -50,10 +50,9 @@ This spatial computing paradigm enables high throughput while maintaining effici
 ## Applications
 
 - Matrix Multiplication (GEMM)
-- CNN Inference
-- Edge AI Acceleration
-- FPGA-Based Deep Learning Systems
-- High-Performance Digital Signal Processing
+- CNN convolutions
+- AI Acceleration
+
 
 ---
 
